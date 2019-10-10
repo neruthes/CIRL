@@ -1,0 +1,86 @@
+Contact-Information-Reception-License
+#####################################################################
+    @ Version 1.0
+    @ Copyright 2019 Neruthes (neruthes.xyz) (Neruthes.0x5200DF38)
+#####################################################################
+
+1. Preamble
+
+    In order to protect the privacy rights of everyone, this license
+    is created for sharing business cards.
+
+2. Definitions
+
+    2(a). Business Card: A physical card or an electronic file which
+        indicates the contact information of a person.
+
+    2(b). PTC (Person-to-Contact): The person whose contact
+        information is indicated on the business card.
+
+    2(c). Giver: The person who hereby gives out the business card.
+
+    2(d). Receiver: The person who hereby receives the business card.
+
+    2(e). Contact Information: A series of information which allow
+        others to find ways to contact a person.
+
+3. Rights of the Receiver
+
+    3(a). The receiver may preserve the contact information in mind,
+        on paper, and in electronic systems.
+
+    3(b). The receiver may share the contact information to others as
+        long as it follows the obligations in Article 4 of this
+        license.
+
+4. Obligations of the Receiver
+
+    4(a). Electronic System: The receiver may manage the information
+        in an electronic system, as long as the receiver does not
+        allow third-party access to the system (including authorizing
+        third-party applications, which have network communication
+        capabilities, to access the local database on a private
+        machine).
+
+    4(b). Proper Destruction: When the receiver would like to abandon
+        a physical representation of the contact information, the
+        receiver shall properly destroy the material in order to
+        prevent others from retrieving the information after the
+        abandonment.
+
+    4(c). Confidentiality: The receiver shall not share the contact
+        information to any third party, unless otherwise permitted by
+        the giver or required by law.
+
+    4(d). Active Protection: The receiver shall actively take
+        measures to safeguard the contact information from
+        unauthorized access.
+
+    4(e). Sharing
+
+        4(e)(1). If the giver is the PTC, the receiver is allowed to
+            share the contact information with others, as long as
+            this license is attached and they abide to this license.
+
+        4(e)(2). If the giver is someone who received the contact
+            information of the PTC under this license instead of the
+            PTC, the receiver is not allowed to share the contact
+            information.
+
+5. Jurisdiction and Governance
+
+    5(a). In the event that the receiver fails to comply with the
+        license, the failure may be considered a GDPR incident.
+
+    5(b). The receiver must comply with GDPR of the European Union in
+        exercising its right to preserve the contact information.
+
+Appendix.
+
+    You can attach this license to your business card when you share
+    your business card, in order to protect your privacy from illegal
+    appropriation by neglect or by intention. You may add a link to
+    a webpage which includes the full text of this license as a way
+    to indicate that you are attaching this license. This license
+    itself may not be modified. The author reserves the copyright of
+    this license itself.
