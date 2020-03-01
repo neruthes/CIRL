@@ -1,86 +1,75 @@
-Contact-Information-Reception-License
-#####################################################################
-    @ Version 1.0
-    @ Copyright 2019 Neruthes (neruthes.xyz) (Neruthes.0x5200DF38)
-#####################################################################
+Contact Information Reception License (CIRL) (Version 1.0)
+
+-----------------------------
+* Copyright 2019-2020 Neruthes (neruthes.xyz)
+* Date of publish: 2020-MAR-01
+* Everyone is allowed to present a verbatim copy of the license. However, changing the content is prohibited.
+-----------------------------
 
 1. Preamble
 
-    In order to protect the privacy rights of everyone, this license
-    is created for sharing business cards.
+    In order to protect the privacy rights of everyone, this license is created for sharing Business Cards.
 
 2. Definitions
 
-    2(a). Business Card: A physical card or an electronic file which
-        indicates the contact information of a person.
+    2(a). Business Card: A physical card or an electronic file which indicates the Contact Information of a person.
 
-    2(b). PTC (Person-to-Contact): The person whose contact
-        information is indicated on the business card.
+    2(b). PTC (Person-to-Contact): The person whose Contact Information is indicated on the Business Card.
 
-    2(c). Giver: The person who hereby gives out the business card.
+    2(c). Contact Information: A series of information which allow others to find ways to contact the PTC, as provided on the Business Card.
 
-    2(d). Receiver: The person who hereby receives the business card.
+    2(d). Giver: The person who hereby gives out the Business Card.
 
-    2(e). Contact Information: A series of information which allow
-        others to find ways to contact a person.
+    2(e). Receiver: The person who hereby receives the Business Card.
+
+    2(f). First-Hand Receiver (FHR): A Receiver who receives the Contact Information from the PTC.
+
+    2(g). Second-Hand Receiver (SHR): A Receiver who receives the Contact Information from some FHR.
 
 3. Rights of the Receiver
 
-    3(a). The receiver may preserve the contact information in mind,
-        on paper, and in electronic systems.
+    3(a). The Receiver may preserve the Contact Information in mind, on paper, and in electronic systems; as long as the practice follows the obligations in Article 4 of this license.
 
-    3(b). The receiver may share the contact information to others as
-        long as it follows the obligations in Article 4 of this
-        license.
+    3(b). The Receiver may share the Contact Information to others as long as it follows the obligations in Article 4 of this license.
 
 4. Obligations of the Receiver
 
-    4(a). Electronic System: The receiver may manage the information
-        in an electronic system, as long as the receiver does not
-        allow third-party access to the system (including authorizing
-        third-party applications, which have network communication
-        capabilities, to access the local database on a private
-        machine).
+    4(a). Electronic System: The Receiver may manage the information in as many electronic systems as he wishes, as long as the Receiver does not allow third-party access to any of such system.
 
-    4(b). Proper Destruction: When the receiver would like to abandon
-        a physical representation of the contact information, the
-        receiver shall properly destroy the material in order to
-        prevent others from retrieving the information after the
-        abandonment.
+        4(a)(1). Third-party access include:
 
-    4(c). Confidentiality: The receiver shall not share the contact
-        information to any third party, unless otherwise permitted by
-        the giver or required by law.
+            4(a)(1)(a). WebDAV service operators, e.g. Microsoft Outlook and Apple iCloud. A WebDAV service helps a user to synchronize Contact Information across devices, where the service operator is able to read the information.
 
-    4(d). Active Protection: The receiver shall actively take
-        measures to safeguard the contact information from
-        unauthorized access.
+            4(a)(1)(b). Contact Information management online services. These services do or do not use WebDAV technology. These services include CRM (Customer Relation Management) services.
+
+            4(a)(1)(c). Online communication services where a user ("Alice") may manually add a "private note" for another user ("Bob") which is only visible to Alice, e.g. WeChat and Telegram. The Receiver may not add a private note which contains the Contact Information of the PTC.
+
+        4(a)(2). Third-party access does not include:
+
+            4(a)(2)(a). Privately deployed service, e.g. privately deployed WebDAV service and privately deployed GitLab instance. A person may deploy a WebDAV service (or any similar service) on a server (either dedicated server or virtual private server) which is privately managed (i.e. no public access). Such a service may be considered privately deployed if the Receiver is the owner of the server and any other user of the server (if exists) does not have access to the Contact Information through the service.
+
+            4(a)(2)(b). Public web services whose purpose are not specifically Contact Information management, e.g. GitHub.
+
+    4(b). Proper Destruction: When the Receiver would like to abandon a physical representation of the Contact Information, the Receiver shall properly destroy the material in order to prevent others from obtaining the Contact Information after the abandonment.
+
+    4(c). Confidentiality: The Receiver shall not share the Contact Information to any third party, unless otherwise permitted by the PTC or required by law.
+
+    4(d). Active Protection: The Receiver shall actively take measures to safeguard the Contact Information from unauthorized access.
 
     4(e). Sharing
 
-        4(e)(1). If the giver is the PTC, the receiver is allowed to
-            share the contact information with others, as long as
-            this license is attached and they abide to this license.
+        4(e)(1). If the Giver is the PTC, the Receiver is allowed to share the Contact Information with others, as long as this license is attached and they abide to this license.
 
-        4(e)(2). If the giver is someone who received the contact
-            information of the PTC under this license instead of the
-            PTC, the receiver is not allowed to share the contact
-            information.
+        4(e)(2). If the Giver is someone who received the Contact Information of the PTC under this license instead of the PTC, the Receiver is not allowed to share the contact     information.
+
+    4(f). If the Receiver is not a private person, the private person which receives the Business Card on behalf of the employer must explicitly declare the fact before receiving the Business Card, and must not keep any private copy beyond the instructions from the employer. The employer is responsible for any possible data leak event from the employee who receives the Business Card on behalf of the employer and shall take measures to prevent it from happening.
 
 5. Jurisdiction and Governance
 
-    5(a). In the event that the receiver fails to comply with the
-        license, the failure may be considered a GDPR incident.
+    5(a). In the event that the Receiver fails to comply with the license, the failure may be considered a civil jury and a GDPR incident.
 
-    5(b). The receiver must comply with GDPR of the European Union in
-        exercising its right to preserve the contact information.
+    5(b). The Receiver must comply with GDPR of the European Union in exercising its right to preserve the Contact Information.
 
 Appendix.
 
-    You can attach this license to your business card when you share
-    your business card, in order to protect your privacy from illegal
-    appropriation by neglect or by intention. You may add a link to
-    a webpage which includes the full text of this license as a way
-    to indicate that you are attaching this license. This license
-    itself may not be modified. The author reserves the copyright of
-    this license itself.
+    You may attach this license to your Business Card when you share your Business Card, in order to protect your privacy from illegal appropriation by neglect or by intention. You may add a link on your business card to a webpage (e.g. "https://github.com/neruthes/CIRL (v1.0)") which includes the full text of this license as a way to indicate that you are attaching this license. This license itself may not be modified. The copyright of this license itself is reserved by the author.
