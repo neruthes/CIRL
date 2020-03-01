@@ -60,7 +60,7 @@ Contact Information Reception License (CIRL) (Version 1.0)
 
         4(e)(1). If the Giver is the PTC, the Receiver is allowed to share the Contact Information with others, as long as this license is attached and they abide to this license.
 
-        4(e)(2). If the Giver is someone who received the Contact Information of the PTC under this license instead of the PTC, the Receiver is not allowed to share the contact     information.
+        4(e)(2). If the Giver is someone who received the Contact Information of the PTC under this license instead of the PTC, the Receiver is not allowed to share the contact information.
 
     4(f). If the Receiver is not a private person, the private person which receives the Business Card on behalf of the employer must explicitly declare the fact before receiving the Business Card, and must not keep any private copy beyond the instructions from the employer. The employer is responsible for any possible data leak event from the employee who receives the Business Card on behalf of the employer and shall take measures to prevent it from happening.
 
